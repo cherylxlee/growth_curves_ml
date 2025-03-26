@@ -1,6 +1,23 @@
-# Predicting Extraterrestrial Growth with ML
+# Predicting Extraterrestrial Growth with ML 👽
+![Pandas](https://img.shields.io/badge/Pandas-006400?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=flat-square&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3F8EFC?style=flat-square&logo=xgboost&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-27AE60?style=flat-square&logo=python&logoColor=white)
 
-As scientists in a galaxy far, far away, our research interests lie in understanding the unique growth trajectories of an undisclosed planet’s inhabitants. While these aliens exhibit remarkable similarities to human biology and growth patterns, the field of extraterrestrial growth development remains largely uncharted territory. Our research aims to explore this exciting frontier, deepening our understanding of these aliens’ growth trajectories, and ultimately predicting how the aliens develop from age 10 to adulthood (age 18). As alien data scientists, we saw this research problem in the context of machine learning and longitudinal data; hence, we aimed to leverage the predictive power of regression models to tackle this task. Throughout our research, we were met with data challenges, including erratic measurements and missing data points, all the while considering the need to model hereditary influences, individual growth patterns, and biological factors. Our final weighted ensemble model leverages insights from exploratory analysis and biologically informed feature selection to accurately capture these complex growth dynamics.
+## Collaborators: Benedict Neo, Trevor Eaton
+
+**Kaggle Competition: [Predicting Extraterrestrial Growth](https://www.kaggle.com/competitions/adv-ml-2025/overview)**
+
+As scientists in a galaxy far, far away, our research interests lie in understanding the unique growth trajectories of an undisclosed planet’s inhabitants. While these aliens exhibit remarkable similarities to human biology and growth patterns, the field of extraterrestrial growth development remains largely uncharted territory. 
+
+Our research aims to explore this exciting frontier, deepening our understanding of these aliens’ growth trajectories, and ultimately predicting how the aliens develop from age 10 to adulthood (age 18). As alien data scientists, we saw this research problem in the context of machine learning and longitudinal data; hence, we aimed to leverage the predictive power of regression models to tackle this task. 
+
+Throughout our research, we were met with data challenges, including erratic measurements and missing data points, all the while considering the need to model hereditary influences, individual growth patterns, and biological factors. Our final weighted ensemble model leverages insights from exploratory analysis and biologically informed feature selection to accurately capture these complex growth dynamics.
+
+## Building the Models
 
 Our approach to predicting growth trajectories evolved through several stages, guided by cross-validation performance and biological reasoning. We continued to refine our model architecture to capture the complex patterns of growth while maintaining interpretability and robustness.
 
